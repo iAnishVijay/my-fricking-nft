@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb99112562a1f48b3f77ba0bd39B50D8140a12dd1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb99112562a1f48b3f77ba0bd39b50d8140a12dd1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "My Fricking NFT",
+  "SYMBOL": "MFNFT",
+  "MAX_SUPPLY": 3,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/my-fricking-nft",
+  "SHOW_BACKGROUND": true
+}
